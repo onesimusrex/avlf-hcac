@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For the best guide and recipes on how to configure / customize this project,
+      For the very best guide and recipes on how to configure / customize this project,
       <br>check out the
       <a
         href="https://cli.vuejs.org"
