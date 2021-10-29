@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       For the very best guide and fun recipes on how to configure / customize this project,
-      <br>check out the
+      <br>check out the stuff
       <a
         href="https://cli.vuejs.org"
         target="_blank"
